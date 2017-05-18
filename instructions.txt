@@ -1,0 +1,34 @@
+********************** HOW TO PLAY **********************
+
+The goal of this game is to kill as many enemies as possible.
+Doing so will raise your score; you 
+should attempt high scores.
+
+Every 5 waves spawns a wave of enemies with double HP.
+Every 10 waves spawns a wave of enemies with double damage, 
+high speed, and decreased health.
+Every 10 waves also spawns one more 
+enemy.
+
+You have 100HP at the start. Every wave, you heal for 10HP.
+
+Controls:
+
+Move up: w
+ 
+Move down: s
+
+Move right: d
+
+Move left: a
+
+Add fire element: 1
+
+Add water element: 2
+
+Add earth element: 3
+
+Clear elements: q
+
+Fire: LMB
+

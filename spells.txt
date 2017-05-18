@@ -1,0 +1,13 @@
+List of Known Spells:
+
+Fireball: fire + fire + fire
+Deals 25 dmg. Has a 1s CD
+
+Teleport: fire + earth + water
+Teleports to mouse. Has a 15s CD
+
+Icelance: water + water + earth
+Deals 10 dmg. Slows enemies. Has 2s CD
+
+Moltenspear: earth + fire + earth
+Deals 10 - 40 dmg. Penetrates. 5s CD
